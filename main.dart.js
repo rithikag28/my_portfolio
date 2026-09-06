@@ -62224,7 +62224,7 @@ $0(){A.lz(this.a).oK(null)},
 $S:0}
 A.nZ.prototype={
 M(a){var s=null
-return A.a9q(A.a8d(B.bi,!0,s,A.a8U(s,s,B.kv,s,s,new A.Ws(a),s,s,s),B.LJ),A.a9w(A.NV(A.d([A.a9k("A machine learning project that predicts the possibility of heart disease using relevant patient data.",B.zW,"Heart Disease Prediction"),A.a9k("A recommendation system that suggests relevant courses using machine learning and TF-IDF techniques.",B.zZ,"Course Recommendation System"),A.a9k("A system designed to manage books, students, borrowing, returning, and other library activities efficiently.",B.zX,"Library Management System"),B.vi,A.Pd(B.vE,new A.Wt(a),A.Pe(s,s,B.bi,s,s,s,s,s,s,B.i,s,s,s,s,s,s,s,s,s,s))],t.W),B.bj,B.bn),B.kg))}}
+return A.a9q(A.a8d(B.bi,!0,s,A.a8U(s,s,B.kv,s,s,new A.Ws(a),s,s,s),B.LJ),A.a9w(A.NV(A.d([A.a9k("A machine learning project that predicts the possibility of heart disease using relevant patient data.",B.zW,"Heart Disease Prediction"),A.a9k("A recommendation system that suggests relevant courses using machine learning and TF-IDF techniques.",B.zZ,"Course Recommendation System"),A.a9k("A system designed to manage voter registration, online voting, elections and results efficiently.",B.zX,"Online Voting System"),B.vi,A.Pd(B.vE,new A.Wt(a),A.Pe(s,s,B.bi,s,s,s,s,s,s,B.i,s,s,s,s,s,s,s,s,s,s))],t.W),B.bj,B.bn),B.kg))}}
 A.Ws.prototype={
 $0(){A.lz(this.a).oK(null)},
 $S:0}
@@ -65084,7 +65084,7 @@ B.zU=new A.l8(null)
 B.ks=new A.eW(57490,"MaterialIcons",!0)
 B.zV=new A.eW(57706,"MaterialIcons",!1)
 B.zW=new A.eW(57947,"MaterialIcons",!1)
-B.zX=new A.eW(58231,"MaterialIcons",!1)
+B.zX=new A.eW(58156,"MaterialIcons",!1)
 B.kt=new A.eW(58332,"MaterialIcons",!1)
 B.zY=new A.eW(58513,"MaterialIcons",!1)
 B.zZ=new A.eW(58713,"MaterialIcons",!1)
